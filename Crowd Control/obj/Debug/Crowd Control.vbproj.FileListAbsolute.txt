@@ -1,0 +1,13 @@
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\bin\Debug\Crowd Control.exe.config
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\bin\Debug\Crowd Control.exe
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\bin\Debug\Crowd Control.pdb
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\bin\Debug\Crowd Control.xml
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\obj\Debug\Crowd Control.vbprojAssemblyReference.cache
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\obj\Debug\Crowd_Control.Core.resources
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\obj\Debug\Crowd_Control.Resources.resources
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\obj\Debug\Crowd_Control.Settings.resources
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\obj\Debug\Crowd Control.vbproj.GenerateResource.cache
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\obj\Debug\Crowd Control.vbproj.CoreCompileInputs.cache
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\obj\Debug\Crowd Control.exe
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\obj\Debug\Crowd Control.xml
+C:\Users\tyler.montney\Documents\Visual Studio 2017\Projects\Crowd Control\Crowd Control\obj\Debug\Crowd Control.pdb
